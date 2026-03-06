@@ -9,8 +9,8 @@
 
 ## 풀이 현황
 
-- 총 풀이 수: **37문제**
-- Level 1: **37문제**
+- 총 풀이 수: **38문제**
+- Level 1: **38문제**
 
 ## 디렉토리 구조
 
@@ -68,3 +68,4 @@ coding-test-practice/
 | - | 행렬의 덧셈 | Level 1 | JavaScript |
 | 02/07 | 카드 뭉치 | Level 1 | JavaScript |
 | 03/03 | 덧칠하기 | Level 1 | JavaScript |
+| 03/06 | [1차] 비밀지도 | Level 1 | JavaScript |
