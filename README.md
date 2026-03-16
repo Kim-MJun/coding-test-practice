@@ -9,8 +9,8 @@
 
 ## 풀이 현황
 
-- 총 풀이 수: **38문제**
-- Level 1: **38문제**
+- 총 풀이 수: **41문제**
+- Level 1: **41문제**
 
 ## 디렉토리 구조
 
@@ -65,6 +65,9 @@ coding-test-practice/
 | - | 키패드 누르기 | Level 1 | JavaScript |
 | - | 하샤드수 | Level 1 | JavaScript |
 | - | 핸드폰 번호 가리기 | Level 1 | JavaScript |
+| - | 약수의 합 | Level 1 | JavaScript |
+| - | 짝수와 홀수 | Level 1 | JavaScript |
+| - | 평균 구하기 | Level 1 | JavaScript |
 | - | 행렬의 덧셈 | Level 1 | JavaScript |
 | 02/07 | 카드 뭉치 | Level 1 | JavaScript |
 | 03/03 | 덧칠하기 | Level 1 | JavaScript |
