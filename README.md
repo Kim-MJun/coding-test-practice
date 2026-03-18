@@ -9,8 +9,8 @@
 
 ## 풀이 현황
 
-- 총 풀이 수: **41문제**
-- Level 1: **41문제**
+- 총 풀이 수: **50문제**
+- Level 1: **50문제**
 
 ## 디렉토리 구조
 
@@ -31,6 +31,15 @@ coding-test-practice/
 
 | 날짜 | 문제 | 레벨 | 언어 |
 |------|------|------|------|
+| - | 가운데 글자 가져오기 | Level 1 | JavaScript |
+| - | 나누어 떨어지는 숫자 배열 | Level 1 | JavaScript |
+| - | 두 정수 사이의 합 | Level 1 | JavaScript |
+| - | 문자열 내 p와 y의 개수 | Level 1 | JavaScript |
+| - | 서울에서 김서방 찾기 | Level 1 | JavaScript |
+| - | 자연수 뒤집어 배열만들기 | Level 1 | JavaScript |
+| - | 정수 내림차순으로 배치하기 | Level 1 | JavaScript |
+| - | 정수 제곱근 판별 | Level 1 | JavaScript |
+| - | 콜라츠 추측 | Level 1 | JavaScript |
 | - | 3진법 뒤집기 | Level 1 | JavaScript |
 | - | K번째수 | Level 1 | JavaScript |
 | - | x만큼 간격이 있는 n개의 숫자 | Level 1 | JavaScript |
