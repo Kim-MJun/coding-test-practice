@@ -9,8 +9,8 @@
 
 ## 풀이 현황
 
-- 총 풀이 수: **51문제**
-- Level 1: **51문제**
+- 총 풀이 수: **55문제**
+- Level 1: **55문제**
 
 ## 디렉토리 구조
 
@@ -40,6 +40,10 @@ coding-test-practice/
 | - | 정수 내림차순으로 배치하기 | Level 1 | JavaScript |
 | - | 정수 제곱근 판별 | Level 1 | JavaScript |
 | - | 콜라츠 추측 | Level 1 | JavaScript |
+| - | 같은 숫자는 싫어 | Level 1 | JavaScript |
+| - | 문자열 다루기 기본 | Level 1 | JavaScript |
+| - | 수박수박수박수박수 | Level 1 | JavaScript |
+| - | 최대공약수와 최소공배수 | Level 1 | JavaScript |
 | - | 3진법 뒤집기 | Level 1 | JavaScript |
 | - | K번째수 | Level 1 | JavaScript |
 | - | x만큼 간격이 있는 n개의 숫자 | Level 1 | JavaScript |
