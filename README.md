@@ -9,8 +9,8 @@
 
 ## 풀이 현황
 
-- 총 풀이 수: **57문제**
-- Level 1: **57문제**
+- 총 풀이 수: **59문제**
+- Level 1: **59문제**
 
 ## 디렉토리 구조
 
@@ -84,6 +84,8 @@ coding-test-practice/
 | - | 제일 작은 수 제거하기 | Level 1 | JavaScript |
 | - | 예산 | Level 1 | JavaScript |
 | - | 이상한 문자 만들기 | Level 1 | JavaScript |
+| - | 시저암호 | Level 1 | JavaScript |
+| - | 최소직사각형 | Level 1 | JavaScript |
 | - | 행렬의 덧셈 | Level 1 | JavaScript |
 | 02/07 | 카드 뭉치 | Level 1 | JavaScript |
 | 03/03 | 덧칠하기 | Level 1 | JavaScript |
