@@ -9,8 +9,8 @@
 
 ## 풀이 현황
 
-- 총 풀이 수: **59문제**
-- Level 1: **59문제**
+- 총 풀이 수: **60문제**
+- Level 1: **60문제**
 
 ## 디렉토리 구조
 
@@ -61,6 +61,7 @@ coding-test-practice/
 | - | 로또의 최고순위와 최저순위 | Level 1 | JavaScript |
 | - | 명예의 전당(1) | Level 1 | JavaScript |
 | - | 모의고사 | Level 1 | JavaScript |
+| - | 문자열 내 마음대로 정렬하기 | Level 1 | JavaScript |
 | - | 문자열 나누기 | Level 1 | JavaScript |
 | - | 부족한 금액 계산하기 | Level 1 | JavaScript |
 | - | 붕대 감기 | Level 1 | JavaScript |
