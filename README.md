@@ -9,8 +9,8 @@
 
 ## 풀이 현황
 
-- 총 풀이 수: **60문제**
-- Level 1: **60문제**
+- 총 풀이 수: **63문제**
+- Level 1: **63문제**
 
 ## 디렉토리 구조
 
@@ -44,6 +44,7 @@ coding-test-practice/
 | - | 문자열 다루기 기본 | Level 1 | JavaScript |
 | - | 수박수박수박수박수 | Level 1 | JavaScript |
 | - | 최대공약수와 최소공배수 | Level 1 | JavaScript |
+| - | 2016년 | Level 1 | JavaScript |
 | - | 3진법 뒤집기 | Level 1 | JavaScript |
 | - | K번째수 | Level 1 | JavaScript |
 | - | x만큼 간격이 있는 n개의 숫자 | Level 1 | JavaScript |
@@ -78,6 +79,8 @@ coding-test-practice/
 | - | 크기가 작은 부분 문자열 | Level 1 | JavaScript |
 | - | 키패드 누르기 | Level 1 | JavaScript |
 | - | 하샤드수 | Level 1 | JavaScript |
+| - | 폰켓몬 | Level 1 | JavaScript |
+| - | 푸드파이트대회 | Level 1 | JavaScript |
 | - | 핸드폰 번호 가리기 | Level 1 | JavaScript |
 | - | 약수의 합 | Level 1 | JavaScript |
 | - | 짝수와 홀수 | Level 1 | JavaScript |
