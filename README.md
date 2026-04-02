@@ -9,8 +9,8 @@
 
 ## 풀이 현황
 
-- 총 풀이 수: **63문제**
-- Level 1: **63문제**
+- 총 풀이 수: **65문제**
+- Level 1: **65문제**
 
 ## 디렉토리 구조
 
@@ -66,6 +66,8 @@ coding-test-practice/
 | - | 문자열 나누기 | Level 1 | JavaScript |
 | - | 부족한 금액 계산하기 | Level 1 | JavaScript |
 | - | 붕대 감기 | Level 1 | JavaScript |
+| - | 소수 만들기 | Level 1 | JavaScript |
+| - | 소수 찾기 | Level 1 | JavaScript |
 | - | 삼총사 | Level 1 | JavaScript |
 | - | 숫자 문자열과 영단어 | Level 1 | JavaScript |
 | - | 신고 결과 받기 | Level 1 | JavaScript |
